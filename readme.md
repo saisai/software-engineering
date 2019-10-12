@@ -32,6 +32,13 @@
   - Typescript/Javascript(ES6)
   - Bash script 
   
+ - Frameworks 
+  - Spring boot
+  - GUICE
+  - Play 
+  - Flask
+  - Redux
+  
  Databases [Storage]
 
  - RDBMS 
@@ -56,12 +63,29 @@
     - pagination 
     - Compression and Caching 
     - Content Negotiation 
+    - Data validations and error codes 
     
   -  GRPC 
   
+  
+Containers
+ - Docker 
+ 
+Authentication 
+ - OAuth
+ 
+Orchestration 
+ - K8s
+ - AWS 
+   - VPC
+   - DynamoDB
+   - SQS
+   - Redis 
+   - DNS route 53
+   - Load Balancers
+   - S3
+ 
  Miscellaneous
   - Regex Expression
   - Cryptography (salt, public/private key cryptography)
-  
-  
   
