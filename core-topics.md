@@ -64,6 +64,7 @@
     - Compression and Caching 
     - Content Negotiation 
     - Data validations and error codes 
+    - jax-rs
     
   -  GRPC 
   
