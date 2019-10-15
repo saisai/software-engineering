@@ -11,7 +11,9 @@ Sometime they looks the same but their intent might be different.
 - Inheritance need more knowledge of code and difficult to trace
 - Create larger object with small objects which can be dynamically changed at runtime.
 
-They are classified as followd 
+## Design Patterns 
+
+### Design Patterns  are classified as follow 
 
 ### Creational Patterns - Used to create object 
 
