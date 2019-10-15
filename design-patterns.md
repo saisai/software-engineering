@@ -10,6 +10,7 @@ runtime dynamic behavior vs static behavior, caching objects, pub-sub, and separ
 Sometime they looks the same but their intent might be different.
 
 ### General Principals 
+
 - For more flexibility,  consider composition over inheritance or compose object at runtime than defining at class or template level.
 - Inheritance need more knowledge of code and difficult to trace
 - Create larger object with small objects which can be dynamically changed at runtime.
@@ -17,7 +18,7 @@ Sometime they looks the same but their intent might be different.
 ### Design Patterns  are classified as follow 
 
 ### Creational Patterns - Used to create object 
-
+---
   1. Abstract Factory [create family of related objects]
   2.  Builder [build objects by part]
   3.  Factory Method [create object on runtime with predefined interface]
@@ -25,6 +26,7 @@ Sometime they looks the same but their intent might be different.
   5. Singleton [One object per process]
   
  ### Structural Patterns - Relationship between classes or Objects 
+ ---
  6. Adapter [work with already existing past incompactible interfaces]
  7. Bridge [work with abstraction and implementation so that both can chnage independently in future.]
  8. Composite [Tree Structure]
@@ -34,6 +36,7 @@ Sometime they looks the same but their intent might be different.
  12. Proxy [surrogate or placeholder for objects whose creation is costly]
 
 ### Behavioural Patterns - Communication between classes or Objects 
+---
 13. Chain of responsibility [ dynamic execution sequence]
 14. Command [chain of instructions which can be un-done]
 15. Interpreter [understand language based expressions and map and execute activity]
@@ -48,6 +51,7 @@ Sometime they looks the same but their intent might be different.
  
 
 #### Confusing design patterns 
+---
 - Abstract Factory vs Factory Method
 - Adapter vs Bridge
 - Adapter vs Bridge vs decorator vs facade vs proxy 
@@ -56,6 +60,8 @@ Sometime they looks the same but their intent might be different.
 - Composite vs visitor 
 - Command vs interpreter 
 
+
+---
 
 Also you should know [SOLID](https://en.wikipedia.org/wiki/SOLID) principal 
 
