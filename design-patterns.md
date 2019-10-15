@@ -1,12 +1,13 @@
 
+## Design Patterns 
+
+
 For object oriented programming there are 23 design patterns mentioned by GOF
 
 Mainly these patterns revolve arround ideas of  - classes vs objects, abstarct class vs interfaces, inheritance vs composition, cloning objects,
 runtime dynamic behavior vs static behavior, caching objects, pub-sub, and separating data from functionality.
 
 Sometime they looks the same but their intent might be different.
-
-## Design Patterns 
 
 ### General Principals 
 - For more flexibility,  consider composition over inheritance or compose object at runtime than defining at class or template level.
