@@ -6,12 +6,12 @@ runtime dynamic behavior vs static behavior, caching objects, pub-sub, and separ
 
 Sometime they looks the same but their intent might be different.
 
+## Design Patterns 
+
 ### General Principals 
 - For more flexibility,  consider composition over inheritance or compose object at runtime than defining at class or template level.
 - Inheritance need more knowledge of code and difficult to trace
 - Create larger object with small objects which can be dynamically changed at runtime.
-
-## Design Patterns 
 
 ### Design Patterns  are classified as follow 
 
