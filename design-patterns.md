@@ -1,6 +1,5 @@
 
 ## Design Patterns 
----
 
 For object oriented programming there are 23 design patterns mentioned by GOF
 
